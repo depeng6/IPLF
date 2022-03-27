@@ -21,4 +21,18 @@ For processed data, please download from this [link](https://drive.google.com/fi
  - net: IPLF architecture  
 
 
+## Citation
+```
+@ARTICLE{IPLF,  
+author={Zhu, Depeng and Zhan, Weida and Jiang, Yichun and Xiaoyu, Xu and Guo, Renzhong},  
+journal={IEEE Sensors Journal},   
+title={IPLF:A Novel Image Pair Learning Fusion Network for Infrared and Visible Image},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/JSEN.2022.3161733}}
+
+```
+
  If you have any question, please email to me <zhudepeng@mails.cust.edu.cn>
