@@ -23,7 +23,15 @@ For processed data, please download from this [link](https://drive.google.com/fi
 
 ## Citation
 ```
-@ARTICLE{IPLF,  author={Zhu, Depeng and Zhan, Weida and Jiang, Yichun and Xu, Xiaoyu and Guo, Renzhong},  journal={IEEE Sensors Journal},   title={IPLF: A Novel Image Pair Learning Fusion Network for Infrared and Visible Image},   year={2022},  volume={22},  number={9},  pages={8808-8817},  doi={10.1109/JSEN.2022.3161733}}
+@ARTICLE{IPLF,  
+author={Zhu, Depeng and Zhan, Weida and Jiang, Yichun and Xu, Xiaoyu and Guo, Renzhong},  
+journal={IEEE Sensors Journal},   
+title={IPLF: A Novel Image Pair Learning Fusion Network for Infrared and Visible Image},   
+year={2022},  
+volume={22},  
+number={9},  
+pages={8808-8817}, 
+doi={10.1109/JSEN.2022.3161733}}
 
 ```
 
